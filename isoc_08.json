@@ -1,0 +1,2221 @@
+{
+  "0": {
+    "sub": {
+      "01": {
+        "minor": {
+          "011": {
+            "title": "Commissioned Armed Forces Officers",
+            "unit": {
+              "0110": {
+                "title": "Commissioned Armed Forces Officers"
+              }
+            }
+          }
+        },
+        "title": "Commissioned Armed Forces Officers"
+      },
+      "02": {
+        "minor": {
+          "021": {
+            "title": "Non-commissioned Armed Forces Officers",
+            "unit": {
+              "0210": {
+                "title": "Non-commissioned Armed Forces Officers"
+              }
+            }
+          }
+        },
+        "title": "Non-commissioned Armed Forces Officers"
+      },
+      "03": {
+        "minor": {
+          "031": {
+            "title": "Armed Forces Occupations, Other Ranks",
+            "unit": {
+              "0310": {
+                "title": "Armed Forces Occupations, Other Ranks"
+              }
+            }
+          }
+        },
+        "title": "Armed Forces Occupations, Other Ranks"
+      }
+    },
+    "title": "Armed Forces Occupations"
+  },
+  "1": {
+    "sub": {
+      "11": {
+        "minor": {
+          "111": {
+            "title": "Legislators and Senior Officials",
+            "unit": {
+              "1111": {
+                "title": "Legislators"
+              },
+              "1112": {
+                "title": "Senior Government Officials"
+              },
+              "1113": {
+                "title": "Traditional Chiefs and Heads of Villages"
+              },
+              "1114": {
+                "title": "Senior Officials of Special-interest Organizations"
+              }
+            }
+          },
+          "112": {
+            "title": "Managing Directors and Chief Executives",
+            "unit": {
+              "1120": {
+                "title": "Managing Directors and Chief Executives"
+              }
+            }
+          }
+        },
+        "title": "Chief Executives, Senior Officials and Legislators"
+      },
+      "12": {
+        "minor": {
+          "121": {
+            "title": "Business Services and Administration Managers",
+            "unit": {
+              "1211": {
+                "title": "Finance Managers"
+              },
+              "1212": {
+                "title": "Human Resource Managers"
+              },
+              "1213": {
+                "title": "Policy and Planning Managers"
+              },
+              "1219": {
+                "title": "Business Services and Administration Managers Not Elsewhere Classified"
+              }
+            }
+          },
+          "122": {
+            "title": "Sales, Marketing and Development Managers",
+            "unit": {
+              "1221": {
+                "title": "Sales and Marketing Managers"
+              },
+              "1222": {
+                "title": "Advertising and Public Relations Managers"
+              },
+              "1223": {
+                "title": "Research and Development Managers"
+              }
+            }
+          }
+        },
+        "title": "Administrative and Commercial Managers"
+      },
+      "13": {
+        "minor": {
+          "131": {
+            "title": "Production Managers in Agriculture, Forestry and Fisheries",
+            "unit": {
+              "1311": {
+                "title": "Agricultural and Forestry Production Managers"
+              },
+              "1312": {
+                "title": "Aquaculture and Fisheries Production Managers"
+              }
+            }
+          },
+          "132": {
+            "title": "Manufacturing, Mining, Construction and Distribution Managers",
+            "unit": {
+              "1321": {
+                "title": "Manufacturing Managers"
+              },
+              "1322": {
+                "title": "Mining Managers"
+              },
+              "1323": {
+                "title": "Construction Managers"
+              },
+              "1324": {
+                "title": "Supply, Distribution and Related Managers"
+              }
+            }
+          },
+          "133": {
+            "title": "Information and Communications Technology Services Managers",
+            "unit": {
+              "1330": {
+                "title": "Information and Communications Technology Services Managers"
+              }
+            }
+          },
+          "134": {
+            "title": "Professional Services Managers",
+            "unit": {
+              "1341": {
+                "title": "Child Care Services Managers"
+              },
+              "1342": {
+                "title": "Health Services Managers"
+              },
+              "1343": {
+                "title": "Aged Care Services Managers"
+              },
+              "1344": {
+                "title": "Social Welfare Managers"
+              },
+              "1345": {
+                "title": "Education Managers"
+              },
+              "1346": {
+                "title": "Financial and Insurance Services Branch Managers"
+              },
+              "1349": {
+                "title": "Professional Services Managers Not Elsewhere Classified"
+              }
+            }
+          }
+        },
+        "title": "Production and Specialized Services Managers"
+      },
+      "14": {
+        "minor": {
+          "141": {
+            "title": "Hotel and Restaurant Managers",
+            "unit": {
+              "1411": {
+                "title": "Hotel Managers"
+              },
+              "1412": {
+                "title": "Restaurant Managers"
+              }
+            }
+          },
+          "142": {
+            "title": "Retail and Wholesale Trade Managers",
+            "unit": {
+              "1420": {
+                "title": "Retail and Wholesale Trade Managers"
+              }
+            }
+          },
+          "143": {
+            "title": "Other Services Managers",
+            "unit": {
+              "1431": {
+                "title": "Sports, Recreation and Cultural Centre Managers"
+              },
+              "1439": {
+                "title": "Services Managers Not Elsewhere Classified"
+              }
+            }
+          }
+        },
+        "title": "Hospitality, Retail and Other Services Managers"
+      }
+    },
+    "title": "Managers"
+  },
+  "2": {
+    "sub": {
+      "21": {
+        "minor": {
+          "211": {
+            "title": "Physical and Earth Science Professionals",
+            "unit": {
+              "2111": {
+                "title": "Physicists and Astronomers"
+              },
+              "2112": {
+                "title": "Meteorologists"
+              },
+              "2113": {
+                "title": "Chemists"
+              },
+              "2114": {
+                "title": "Geologists and Geophysicists"
+              }
+            }
+          },
+          "212": {
+            "title": "Mathematicians, Actuaries and Statisticians",
+            "unit": {
+              "2120": {
+                "title": "Mathematicians, Actuaries and Statisticians"
+              }
+            }
+          },
+          "213": {
+            "title": "Life Science Professionals",
+            "unit": {
+              "2131": {
+                "title": "Biologists, Botanists, Zoologists and Related Professionals"
+              },
+              "2132": {
+                "title": "Farming, Forestry and Fisheries Advisers"
+              },
+              "2133": {
+                "title": "Environmental Protection Professionals"
+              }
+            }
+          },
+          "214": {
+            "title": "Engineering Professionals (excluding Electrotechnology)",
+            "unit": {
+              "2141": {
+                "title": "Industrial and Production Engineers"
+              },
+              "2142": {
+                "title": "Civil Engineers"
+              },
+              "2143": {
+                "title": "Environmental Engineers"
+              },
+              "2144": {
+                "title": "Mechanical Engineers"
+              },
+              "2145": {
+                "title": "Chemical Engineers"
+              },
+              "2146": {
+                "title": "Mining Engineers, Metallurgists and Related Professionals"
+              },
+              "2149": {
+                "title": "Engineering Professionals Not Elsewhere Classified"
+              }
+            }
+          },
+          "215": {
+            "title": "Electrotechnology Engineers",
+            "unit": {
+              "2151": {
+                "title": "Electrical Engineers"
+              },
+              "2152": {
+                "title": "Electronics Engineers"
+              },
+              "2153": {
+                "title": "Telecommunications Engineers"
+              }
+            }
+          },
+          "216": {
+            "title": "Architects, Planners, Surveyors and Designers",
+            "unit": {
+              "2161": {
+                "title": "Building Architects"
+              },
+              "2162": {
+                "title": "Landscape Architects"
+              },
+              "2163": {
+                "title": "Product and Garment Designers"
+              },
+              "2164": {
+                "title": "Town and Traffic Planners"
+              },
+              "2165": {
+                "title": "Cartographers and Surveyors"
+              },
+              "2166": {
+                "title": "Graphic and Multimedia Designers"
+              }
+            }
+          }
+        },
+        "title": "Science and Engineering Professionals"
+      },
+      "22": {
+        "minor": {
+          "221": {
+            "title": "Medical Doctors",
+            "unit": {
+              "2211": {
+                "title": "Generalist Medical Practitioners "
+              },
+              "2212": {
+                "title": "Specialist Medical Practitioners "
+              }
+            }
+          },
+          "222": {
+            "title": "Nursing and Midwifery Professionals",
+            "unit": {
+              "2221": {
+                "title": "Nursing Professionals"
+              },
+              "2222": {
+                "title": "Midwifery Professionals"
+              }
+            }
+          },
+          "223": {
+            "title": "Traditional and Complementary Medicine Professionals",
+            "unit": {
+              "2230": {
+                "title": "Traditional and Complementary Medicine Professionals"
+              }
+            }
+          },
+          "224": {
+            "title": "Paramedical Practitioners",
+            "unit": {
+              "2240": {
+                "title": "Paramedical Practitioners"
+              }
+            }
+          },
+          "225": {
+            "title": "Veterinarians",
+            "unit": {
+              "2250": {
+                "title": "Veterinarians"
+              }
+            }
+          },
+          "226": {
+            "title": "Other Health Professionals",
+            "unit": {
+              "2261": {
+                "title": "Dentists"
+              },
+              "2262": {
+                "title": "Pharmacists"
+              },
+              "2263": {
+                "title": "Environmental and Occupational Health and Hygiene Professionals"
+              },
+              "2264": {
+                "title": "Physiotherapists "
+              },
+              "2265": {
+                "title": "Dieticians and Nutritionists"
+              },
+              "2266": {
+                "title": "Audiologists and Speech Therapists"
+              },
+              "2267": {
+                "title": "Optometrists and Ophthalmic Opticians"
+              },
+              "2269": {
+                "title": "Health Professionals Not Elsewhere Classified"
+              }
+            }
+          }
+        },
+        "title": "Health Professionals"
+      },
+      "23": {
+        "minor": {
+          "231": {
+            "title": "University and Higher Education Teachers",
+            "unit": {
+              "2310": {
+                "title": "University and Higher Education Teachers"
+              }
+            }
+          },
+          "232": {
+            "title": "Vocational Education Teachers",
+            "unit": {
+              "2320": {
+                "title": "Vocational Education Teachers"
+              }
+            }
+          },
+          "233": {
+            "title": "Secondary Education Teachers",
+            "unit": {
+              "2330": {
+                "title": "Secondary Education Teachers"
+              }
+            }
+          },
+          "234": {
+            "title": "Primary School and Early Childhood Teachers",
+            "unit": {
+              "2341": {
+                "title": "Primary School Teachers"
+              },
+              "2342": {
+                "title": "Early Childhood Educators"
+              }
+            }
+          },
+          "235": {
+            "title": "Other Teaching Professionals",
+            "unit": {
+              "2351": {
+                "title": "Education Methods specialists"
+              },
+              "2352": {
+                "title": "Special Needs Teachers"
+              },
+              "2353": {
+                "title": "Other Language Teachers"
+              },
+              "2354": {
+                "title": "Other Music Teachers"
+              },
+              "2355": {
+                "title": "Other Arts Teachers"
+              },
+              "2356": {
+                "title": "Information Technology Trainers"
+              },
+              "2359": {
+                "title": "Teaching Professionals Not Elsewhere Classified"
+              }
+            }
+          }
+        },
+        "title": "Teaching Professionals"
+      },
+      "24": {
+        "minor": {
+          "241": {
+            "title": "Finance Professionals",
+            "unit": {
+              "2411": {
+                "title": "Accountants"
+              },
+              "2412": {
+                "title": "Financial and Investment Advisers"
+              },
+              "2413": {
+                "title": "Financial Analysts"
+              }
+            }
+          },
+          "242": {
+            "title": "Administration Professionals",
+            "unit": {
+              "2421": {
+                "title": "Management and Organization Analysts"
+              },
+              "2422": {
+                "title": "Policy Administration Professionals"
+              },
+              "2423": {
+                "title": "Personnel and Careers Professionals"
+              },
+              "2424": {
+                "title": "Training and Staff Development Professionals"
+              }
+            }
+          },
+          "243": {
+            "title": "Sales, Marketing and Public Relations Professionals",
+            "unit": {
+              "2431": {
+                "title": "Advertising and Marketing Professionals"
+              },
+              "2432": {
+                "title": "Public Relations Professionals"
+              },
+              "2433": {
+                "title": "Technical and Medical Sales Professionals (excluding ICT)"
+              },
+              "2434": {
+                "title": "Information and Communications Technology Sales Professionals"
+              }
+            }
+          }
+        },
+        "title": "Business and Administration Professionals"
+      },
+      "25": {
+        "minor": {
+          "251": {
+            "title": "Software and Applications Developers and Analysts",
+            "unit": {
+              "2511": {
+                "title": "Systems Analysts"
+              },
+              "2512": {
+                "title": "Software Developers"
+              },
+              "2513": {
+                "title": "Web and Multimedia Developers"
+              },
+              "2514": {
+                "title": "Applications Programmers"
+              },
+              "2519": {
+                "title": "Software and Applications Developers and Analysts Not Elsewhere Classified"
+              }
+            }
+          },
+          "252": {
+            "title": "Database and Network Professionals",
+            "unit": {
+              "2521": {
+                "title": "Database Designers and Administrators"
+              },
+              "2522": {
+                "title": "Systems Administrators"
+              },
+              "2523": {
+                "title": "Computer Network Professionals"
+              },
+              "2529": {
+                "title": "Database and Network Professionals Not Elsewhere Classified"
+              }
+            }
+          }
+        },
+        "title": "Information and Communications Technology Professionals"
+      },
+      "26": {
+        "minor": {
+          "261": {
+            "title": "Legal Professionals",
+            "unit": {
+              "2611": {
+                "title": "Lawyers"
+              },
+              "2612": {
+                "title": "Judges"
+              },
+              "2619": {
+                "title": "Legal Professionals Not Elsewhere Classified"
+              }
+            }
+          },
+          "262": {
+            "title": "Librarians, Archivists and Curators ",
+            "unit": {
+              "2621": {
+                "title": "Archivists and Curators"
+              },
+              "2622": {
+                "title": "Librarians and Related Information Professionals"
+              }
+            }
+          },
+          "263": {
+            "title": "Social and Religious Professionals",
+            "unit": {
+              "2631": {
+                "title": "Economists"
+              },
+              "2632": {
+                "title": "Sociologists, Anthropologists and Related Professionals"
+              },
+              "2633": {
+                "title": "Philosophers, Historians and Political Scientists"
+              },
+              "2634": {
+                "title": "Psychologists"
+              },
+              "2635": {
+                "title": "Social Work and Counselling Professionals"
+              },
+              "2636": {
+                "title": "Religious Professionals"
+              }
+            }
+          },
+          "264": {
+            "title": "Authors, Journalists and Linguists",
+            "unit": {
+              "2641": {
+                "title": "Authors and Related Writers"
+              },
+              "2642": {
+                "title": "Journalists"
+              },
+              "2643": {
+                "title": "Translators, Interpreters and Other Linguists"
+              }
+            }
+          },
+          "265": {
+            "title": "Creative and Performing Artists",
+            "unit": {
+              "2651": {
+                "title": "Visual Artists"
+              },
+              "2652": {
+                "title": "Musicians, Singers and Composers"
+              },
+              "2653": {
+                "title": "Dancers and Choreographers"
+              },
+              "2654": {
+                "title": "Film, Stage and Related Directors and Producers"
+              },
+              "2655": {
+                "title": "Actors"
+              },
+              "2656": {
+                "title": "Announcers on Radio, Television and Other Media"
+              },
+              "2659": {
+                "title": "Creative and Performing Artists Not Elsewhere Classified"
+              }
+            }
+          }
+        },
+        "title": "Legal, Social and Cultural Professionals"
+      }
+    },
+    "title": "Professionals"
+  },
+  "3": {
+    "sub": {
+      "31": {
+        "minor": {
+          "311": {
+            "title": "Physical and Engineering Science Technicians",
+            "unit": {
+              "3111": {
+                "title": "Chemical and Physical Science Technicians"
+              },
+              "3112": {
+                "title": "Civil Engineering Technicians"
+              },
+              "3113": {
+                "title": "Electrical Engineering Technicians"
+              },
+              "3114": {
+                "title": "Electronics Engineering Technicians"
+              },
+              "3115": {
+                "title": "Mechanical Engineering Technicians"
+              },
+              "3116": {
+                "title": "Chemical Engineering Technicians"
+              },
+              "3117": {
+                "title": "Mining and Metallurgical Technicians"
+              },
+              "3118": {
+                "title": "Draughtspersons"
+              },
+              "3119": {
+                "title": "Physical and Engineering Science Technicians Not Elsewhere Classified"
+              }
+            }
+          },
+          "312": {
+            "title": "Mining, Manufacturing and Construction Supervisors",
+            "unit": {
+              "3121": {
+                "title": "Mining Supervisors"
+              },
+              "3122": {
+                "title": "Manufacturing Supervisors"
+              },
+              "3123": {
+                "title": "Construction Supervisors"
+              }
+            }
+          },
+          "313": {
+            "title": "Process Control Technicians",
+            "unit": {
+              "3131": {
+                "title": "Power Production Plant Operators"
+              },
+              "3132": {
+                "title": "Incinerator and Water Treatment Plant Operators"
+              },
+              "3133": {
+                "title": "Chemical Processing Plant Controllers"
+              },
+              "3134": {
+                "title": "Petroleum and Natural Gas Refining Plant Operators"
+              },
+              "3135": {
+                "title": "Metal Production Process Controllers"
+              },
+              "3139": {
+                "title": "Process Control Technicians Not Elsewhere Classified"
+              }
+            }
+          },
+          "314": {
+            "title": "Life Science Technicians and Related Associate Professionals",
+            "unit": {
+              "3141": {
+                "title": "Life Science Technicians (excluding Medical)"
+              },
+              "3142": {
+                "title": "Agricultural Technicians"
+              },
+              "3143": {
+                "title": "Forestry Technicians"
+              }
+            }
+          },
+          "315": {
+            "title": "Ship and Aircraft Controllers and Technicians",
+            "unit": {
+              "3151": {
+                "title": "Ships’ Engineers"
+              },
+              "3152": {
+                "title": "Ships’ Deck Officers and Pilots"
+              },
+              "3153": {
+                "title": "Aircraft Pilots and Related Associate Professionals"
+              },
+              "3154": {
+                "title": "Air Traffic Controllers"
+              },
+              "3155": {
+                "title": "Air Traffic Safety Electronics Technicians"
+              }
+            }
+          }
+        },
+        "title": "Science and Engineering Associate Professionals"
+      },
+      "32": {
+        "minor": {
+          "321": {
+            "title": "Medical and Pharmaceutical Technicians",
+            "unit": {
+              "3211": {
+                "title": "Medical Imaging and Therapeutic Equipment Technicians"
+              },
+              "3212": {
+                "title": "Medical and Pathology Laboratory Technicians "
+              },
+              "3213": {
+                "title": "Pharmaceutical Technicians and Assistants"
+              },
+              "3214": {
+                "title": "Medical and Dental Prosthetic Technicians"
+              }
+            }
+          },
+          "322": {
+            "title": "Nursing and Midwifery Associate Professionals",
+            "unit": {
+              "3221": {
+                "title": "Nursing Associate Professionals"
+              },
+              "3222": {
+                "title": "Midwifery Associate Professionals"
+              }
+            }
+          },
+          "323": {
+            "title": "Traditional and Complementary Medicine Associate Professionals",
+            "unit": {
+              "3230": {
+                "title": "Traditional and Complementary Medicine Associate Professionals"
+              }
+            }
+          },
+          "324": {
+            "title": "Veterinary Technicians and Assistants",
+            "unit": {
+              "3240": {
+                "title": "Veterinary Technicians and Assistants"
+              }
+            }
+          },
+          "325": {
+            "title": "Other Health Associate Professionals",
+            "unit": {
+              "3251": {
+                "title": "Dental Assistants and Therapists"
+              },
+              "3252": {
+                "title": "Medical Records and Health Information Technicians"
+              },
+              "3253": {
+                "title": "Community Health Workers"
+              },
+              "3254": {
+                "title": "Dispensing Opticians"
+              },
+              "3255": {
+                "title": "Physiotherapy Technicians and Assistants"
+              },
+              "3256": {
+                "title": "Medical Assistants"
+              },
+              "3257": {
+                "title": "Environmental and Occupational Health Inspectors and Associates"
+              },
+              "3258": {
+                "title": "Ambulance Workers"
+              },
+              "3259": {
+                "title": "Health Associate Professionals Not Elsewhere Classified"
+              }
+            }
+          }
+        },
+        "title": "Health Associate Professionals"
+      },
+      "33": {
+        "minor": {
+          "331": {
+            "title": "Financial and Mathematical Associate Professionals",
+            "unit": {
+              "3311": {
+                "title": "Securities and Finance Dealers and Brokers"
+              },
+              "3312": {
+                "title": "Credit and Loans Officers"
+              },
+              "3313": {
+                "title": "Accounting Associate Professionals"
+              },
+              "3314": {
+                "title": "Statistical, Mathematical and Related Associate Professionals"
+              },
+              "3315": {
+                "title": "Valuers and Loss Assessors"
+              }
+            }
+          },
+          "332": {
+            "title": "Sales and Purchasing Agents and Brokers",
+            "unit": {
+              "3321": {
+                "title": "Insurance Representatives"
+              },
+              "3322": {
+                "title": "Commercial Sales Representatives"
+              },
+              "3323": {
+                "title": "Buyers"
+              },
+              "3324": {
+                "title": "Trade Brokers"
+              }
+            }
+          },
+          "333": {
+            "title": "Business Services Agents",
+            "unit": {
+              "3331": {
+                "title": "Clearing and Forwarding Agents"
+              },
+              "3332": {
+                "title": "Conference and Event Planners"
+              },
+              "3333": {
+                "title": "Employment Agents and Contractors"
+              },
+              "3334": {
+                "title": "Real Estate Agents and Property Managers"
+              },
+              "3339": {
+                "title": "Business Services Agents Not Elsewhere Classified"
+              }
+            }
+          },
+          "334": {
+            "title": "Administrative and Specialized Secretaries",
+            "unit": {
+              "3341": {
+                "title": "Office Supervisors"
+              },
+              "3342": {
+                "title": "Legal Secretaries"
+              },
+              "3343": {
+                "title": "Administrative and Executive Secretaries"
+              },
+              "3344": {
+                "title": "Medical Secretaries"
+              }
+            }
+          },
+          "335": {
+            "title": "Government Regulatory Associate Professionals",
+            "unit": {
+              "3351": {
+                "title": "Customs and Border Inspectors"
+              },
+              "3352": {
+                "title": "Government Tax and Excise Officials"
+              },
+              "3353": {
+                "title": "Government Social Benefits Officials"
+              },
+              "3354": {
+                "title": "Government Licensing Officials"
+              },
+              "3355": {
+                "title": "Police Inspectors and Detectives"
+              },
+              "3359": {
+                "title": "Government Regulatory Associate Professionals Not Elsewhere Classified"
+              }
+            }
+          }
+        },
+        "title": "Business and Administration Associate Professionals"
+      },
+      "34": {
+        "minor": {
+          "341": {
+            "title": "Legal, Social and Religious Associate Professionals",
+            "unit": {
+              "3411": {
+                "title": "Legal and Related Associate Professionals"
+              },
+              "3412": {
+                "title": "Social Work Associate Professionals"
+              },
+              "3413": {
+                "title": "Religious Associate Professionals"
+              }
+            }
+          },
+          "342": {
+            "title": "Sports and Fitness Workers",
+            "unit": {
+              "3421": {
+                "title": "Athletes and Sports Players"
+              },
+              "3422": {
+                "title": "Sports Coaches, Instructors and Officials"
+              },
+              "3423": {
+                "title": "Fitness and Recreation Instructors and Programme Leaders"
+              }
+            }
+          },
+          "343": {
+            "title": "Artistic, Cultural and Culinary Associate Professionals",
+            "unit": {
+              "3431": {
+                "title": "Photographers"
+              },
+              "3432": {
+                "title": "Interior Designers and Decorators"
+              },
+              "3433": {
+                "title": "Gallery, Museum and Library Technicians"
+              },
+              "3434": {
+                "title": "Chefs"
+              },
+              "3435": {
+                "title": "Other Artistic and Cultural Associate Professionals"
+              }
+            }
+          }
+        },
+        "title": "Legal, Social, Cultural and Related Associate Professionals"
+      },
+      "35": {
+        "minor": {
+          "351": {
+            "title": "Information and Communications Technology Operations and User Support Technicians",
+            "unit": {
+              "3511": {
+                "title": "Information and Communications Technology Operations Technicians"
+              },
+              "3512": {
+                "title": "Information and Communications Technology User Support Technicians"
+              },
+              "3513": {
+                "title": "Computer Network and Systems Technicians"
+              },
+              "3514": {
+                "title": "Web Technicians"
+              }
+            }
+          },
+          "352": {
+            "title": "Telecommunications and Broadcasting Technicians",
+            "unit": {
+              "3521": {
+                "title": "Broadcasting and Audiovisual Technicians"
+              },
+              "3522": {
+                "title": "Telecommunications Engineering Technicians"
+              }
+            }
+          }
+        },
+        "title": "Information and Communications Technicians"
+      }
+    },
+    "title": "Technicians and Associate Professionals"
+  },
+  "4": {
+    "sub": {
+      "41": {
+        "minor": {
+          "411": {
+            "title": "General Office Clerks",
+            "unit": {
+              "4110": {
+                "title": "General Office Clerks"
+              }
+            }
+          },
+          "412": {
+            "title": "Secretaries (general)",
+            "unit": {
+              "4120": {
+                "title": "Secretaries (general)"
+              }
+            }
+          },
+          "413": {
+            "title": "Keyboard Operators",
+            "unit": {
+              "4131": {
+                "title": "Typists and Word Processing Operators"
+              },
+              "4132": {
+                "title": "Data Entry Clerks"
+              }
+            }
+          }
+        },
+        "title": "General and Keyboard Clerks"
+      },
+      "42": {
+        "minor": {
+          "421": {
+            "title": "Tellers, Money Collectors and Related Clerks",
+            "unit": {
+              "4211": {
+                "title": "Bank Tellers and Related Clerks"
+              },
+              "4212": {
+                "title": "Bookmakers, Croupiers and Related Gaming Workers"
+              },
+              "4213": {
+                "title": "Pawnbrokers and Money-lenders"
+              },
+              "4214": {
+                "title": "Debt Collectors and Related Workers"
+              }
+            }
+          },
+          "422": {
+            "title": "Client Information Workers",
+            "unit": {
+              "4221": {
+                "title": "Travel Consultants and Clerks"
+              },
+              "4222": {
+                "title": "Contact Centre Information Clerks"
+              },
+              "4223": {
+                "title": "Telephone Switchboard Operators"
+              },
+              "4224": {
+                "title": "Hotel Receptionists"
+              },
+              "4225": {
+                "title": "Inquiry Clerks"
+              },
+              "4226": {
+                "title": "Receptionists (general)"
+              },
+              "4227": {
+                "title": "Survey and Market Research Interviewers"
+              },
+              "4229": {
+                "title": "Client Information Workers Not Elsewhere Classified"
+              }
+            }
+          }
+        },
+        "title": "Customer Services Clerks"
+      },
+      "43": {
+        "minor": {
+          "431": {
+            "title": "Numerical Clerks",
+            "unit": {
+              "4311": {
+                "title": "Accounting and Bookkeeping Clerks"
+              },
+              "4312": {
+                "title": "Statistical, Finance and Insurance Clerks"
+              },
+              "4313": {
+                "title": "Payroll Clerks"
+              }
+            }
+          },
+          "432": {
+            "title": "Material Recording and Transport Clerks",
+            "unit": {
+              "4321": {
+                "title": "Stock Clerks"
+              },
+              "4322": {
+                "title": "Production Clerks"
+              },
+              "4323": {
+                "title": "Transport Clerks"
+              }
+            }
+          }
+        },
+        "title": "Numerical and Material Recording Clerks"
+      },
+      "44": {
+        "minor": {
+          "441": {
+            "title": "Other Clerical Support Workers",
+            "unit": {
+              "4411": {
+                "title": "Library Clerks"
+              },
+              "4412": {
+                "title": "Mail Carriers and Sorting Clerks"
+              },
+              "4413": {
+                "title": "Coding, Proofreading and Related Clerks"
+              },
+              "4414": {
+                "title": "Scribes and Related Workers"
+              },
+              "4415": {
+                "title": "Filing and Copying Clerks"
+              },
+              "4416": {
+                "title": "Personnel Clerks"
+              },
+              "4419": {
+                "title": "Clerical Support Workers Not Elsewhere Classified"
+              }
+            }
+          }
+        },
+        "title": "Other Clerical Support Workers"
+      }
+    },
+    "title": "Clerical Support Workers"
+  },
+  "5": {
+    "sub": {
+      "51": {
+        "minor": {
+          "511": {
+            "title": "Travel Attendants, Conductors and Guides",
+            "unit": {
+              "5111": {
+                "title": "Travel Attendants and Travel Stewards"
+              },
+              "5112": {
+                "title": "Transport Conductors"
+              },
+              "5113": {
+                "title": "Travel Guides"
+              }
+            }
+          },
+          "512": {
+            "title": "Cooks",
+            "unit": {
+              "5120": {
+                "title": "Cooks"
+              }
+            }
+          },
+          "513": {
+            "title": "Waiters and Bartenders",
+            "unit": {
+              "5131": {
+                "title": "Waiters"
+              },
+              "5132": {
+                "title": "Bartenders"
+              }
+            }
+          },
+          "514": {
+            "title": "Hairdressers, Beauticians and Related Workers",
+            "unit": {
+              "5141": {
+                "title": "Hairdressers"
+              },
+              "5142": {
+                "title": "Beauticians and Related Workers"
+              }
+            }
+          },
+          "515": {
+            "title": "Building and Housekeeping Supervisors",
+            "unit": {
+              "5151": {
+                "title": "Cleaning and Housekeeping Supervisors in Offices, Hotels and Other Establishments"
+              },
+              "5152": {
+                "title": "Domestic Housekeepers"
+              },
+              "5153": {
+                "title": "Building Caretakers"
+              }
+            }
+          },
+          "516": {
+            "title": "Other Personal Services Workers",
+            "unit": {
+              "5161": {
+                "title": "Astrologers, Fortune-tellers and Related Workers"
+              },
+              "5162": {
+                "title": "Companions and Valets"
+              },
+              "5163": {
+                "title": "Undertakers and Embalmers"
+              },
+              "5164": {
+                "title": "Pet Groomers and Animal Care Workers"
+              },
+              "5165": {
+                "title": "Driving Instructors"
+              },
+              "5169": {
+                "title": "Personal Services Workers Not Elsewhere Classified"
+              }
+            }
+          }
+        },
+        "title": "Personal Services Workers"
+      },
+      "52": {
+        "minor": {
+          "521": {
+            "title": "Street and Market Salespersons",
+            "unit": {
+              "5211": {
+                "title": "Stall and Market Salespersons"
+              },
+              "5212": {
+                "title": "Street Food Salespersons"
+              }
+            }
+          },
+          "522": {
+            "title": "Shop Salespersons ",
+            "unit": {
+              "5221": {
+                "title": "Shopkeepers"
+              },
+              "5222": {
+                "title": "Shop Supervisors"
+              },
+              "5223": {
+                "title": "Shop Sales Assistants"
+              }
+            }
+          },
+          "523": {
+            "title": "Cashiers and Ticket Clerks",
+            "unit": {}
+          },
+          "524": {
+            "title": "Other Sales Workers",
+            "unit": {
+              "5241": {
+                "title": "Fashion and Other Models"
+              },
+              "5242": {
+                "title": "Sales Demonstrators"
+              },
+              "5243": {
+                "title": "Door-to-door Salespersons"
+              },
+              "5244": {
+                "title": "Contact Centre Salespersons"
+              },
+              "5245": {
+                "title": "Service Station Attendants"
+              },
+              "5246": {
+                "title": "Food Service Counter Attendants"
+              },
+              "5249": {
+                "title": "Sales Workers Not Elsewhere Classified"
+              }
+            }
+          }
+        },
+        "title": "Sales Workers"
+      },
+      "53": {
+        "minor": {
+          "531": {
+            "title": "Child Care Workers and Teachers’ Aides",
+            "unit": {
+              "5311": {
+                "title": "Child Care Workers"
+              },
+              "5312": {
+                "title": "Teachers’ Aides"
+              }
+            }
+          },
+          "532": {
+            "title": "Personal Care Workers in Health Services",
+            "unit": {
+              "5321": {
+                "title": "Health Care Assistants"
+              },
+              "5322": {
+                "title": "Home-based Personal Care Workers"
+              },
+              "5329": {
+                "title": "Personal Care Workers in Health Services Not Elsewhere Classified"
+              }
+            }
+          }
+        },
+        "title": "Personal Care Workers"
+      },
+      "54": {
+        "minor": {
+          "541": {
+            "title": "Protective Services Workers",
+            "unit": {
+              "5411": {
+                "title": "Firefighters"
+              },
+              "5412": {
+                "title": "Police Officers"
+              },
+              "5413": {
+                "title": "Prison Guards"
+              },
+              "5414": {
+                "title": "Security Guards"
+              },
+              "5419": {
+                "title": "Protective Services Workers Not Elsewhere Classified"
+              }
+            }
+          }
+        },
+        "title": "Protective Services Workers"
+      }
+    },
+    "title": "Services And Sales Workers"
+  },
+  "6": {
+    "sub": {
+      "61": {
+        "minor": {
+          "611": {
+            "title": "Market Gardeners and Crop Growers",
+            "unit": {
+              "6111": {
+                "title": "Field Crop and Vegetable Growers"
+              },
+              "6112": {
+                "title": "Tree and Shrub Crop Growers"
+              },
+              "6113": {
+                "title": "Gardeners; Horticultural and Nursery Growers"
+              },
+              "6114": {
+                "title": "Mixed Crop Growers"
+              }
+            }
+          },
+          "612": {
+            "title": "Animal Producers",
+            "unit": {
+              "6121": {
+                "title": "Livestock and Dairy Producers"
+              },
+              "6122": {
+                "title": "Poultry Producers"
+              },
+              "6123": {
+                "title": "Apiarists and Sericulturists"
+              },
+              "6129": {
+                "title": "Animal Producers Not Elsewhere Classified"
+              }
+            }
+          },
+          "613": {
+            "title": "Mixed Crop and Animal Producers",
+            "unit": {
+              "6130": {
+                "title": "Mixed Crop and Animal Producers"
+              }
+            }
+          }
+        },
+        "title": "Market-oriented Skilled Agricultural Workers"
+      },
+      "62": {
+        "minor": {
+          "621": {
+            "title": "Forestry and Related Workers",
+            "unit": {
+              "6210": {
+                "title": "Forestry and Related Workers"
+              }
+            }
+          },
+          "622": {
+            "title": "Fishery Workers, Hunters and Trappers",
+            "unit": {
+              "6221": {
+                "title": "Aquaculture Workers"
+              },
+              "6222": {
+                "title": "Inland and Coastal Waters Fishery Workers"
+              },
+              "6223": {
+                "title": "Deep-sea Fishery Workers"
+              },
+              "6224": {
+                "title": "Hunters and Trappers"
+              }
+            }
+          }
+        },
+        "title": "Market-oriented Skilled Forestry, Fishery and Hunting Workers"
+      },
+      "63": {
+        "minor": {
+          "631": {
+            "title": "Subsistence Crop Farmers",
+            "unit": {
+              "6310": {
+                "title": "Subsistence Crop Farmers"
+              }
+            }
+          },
+          "632": {
+            "title": "Subsistence Livestock Farmers",
+            "unit": {
+              "6320": {
+                "title": "Subsistence Livestock Farmers"
+              }
+            }
+          },
+          "633": {
+            "title": "Subsistence Mixed Crop and Livestock Farmers",
+            "unit": {
+              "6330": {
+                "title": "Subsistence Mixed Crop and Livestock Farmers"
+              }
+            }
+          },
+          "634": {
+            "title": "Subsistence Fishers, Hunters, Trappers and Gatherers",
+            "unit": {
+              "6340": {
+                "title": "Subsistence Fishers, Hunters, Trappers and Gatherers"
+              }
+            }
+          }
+        },
+        "title": "Subsistence Farmers, Fishers, Hunters and Gatherers"
+      }
+    },
+    "title": "Skilled Agricultural, Forestry and Fishery Workers"
+  },
+  "7": {
+    "sub": {
+      "71": {
+        "minor": {
+          "711": {
+            "title": "Building Frame and Related Trades Workers",
+            "unit": {
+              "7111": {
+                "title": "House Builders"
+              },
+              "7112": {
+                "title": "Bricklayers and Related Workers"
+              },
+              "7113": {
+                "title": "Stonemasons, Stone Cutters, Splitters and Carvers"
+              },
+              "7114": {
+                "title": "Concrete Placers, Concrete Finishers and Related Workers"
+              },
+              "7115": {
+                "title": "Carpenters and Joiners"
+              },
+              "7119": {
+                "title": "Building Frame and Related Trades Workers Not Elsewhere Classified"
+              }
+            }
+          },
+          "712": {
+            "title": "Building Finishers and Related Trades Workers",
+            "unit": {
+              "7121": {
+                "title": "Roofers"
+              },
+              "7122": {
+                "title": "Floor Layers and Tile Setters"
+              },
+              "7123": {
+                "title": "Plasterers"
+              },
+              "7124": {
+                "title": "Insulation Workers"
+              },
+              "7125": {
+                "title": "Glaziers"
+              },
+              "7126": {
+                "title": "Plumbers and Pipe Fitters"
+              },
+              "7127": {
+                "title": "Air Conditioning and Refrigeration Mechanics"
+              }
+            }
+          },
+          "713": {
+            "title": "Painters, Building Structure Cleaners and Related Trades Workers",
+            "unit": {
+              "7131": {
+                "title": "Painters and Related Workers"
+              },
+              "7132": {
+                "title": "Spray Painters and Varnishers"
+              },
+              "7133": {
+                "title": "Building Structure Cleaners"
+              }
+            }
+          }
+        },
+        "title": "Building and Related Trades Workers (excluding Electricians)"
+      },
+      "72": {
+        "minor": {
+          "721": {
+            "title": "Sheet and Structural Metal Workers, Moulders and Welders, and Related Workers",
+            "unit": {
+              "7211": {
+                "title": "Metal Moulders and Coremakers"
+              },
+              "7212": {
+                "title": "Welders and Flame Cutters"
+              },
+              "7213": {
+                "title": "Sheet Metal Workers"
+              },
+              "7214": {
+                "title": "Structural Metal Preparers and Erectors"
+              },
+              "7215": {
+                "title": "Riggers and Cable Splicers"
+              }
+            }
+          },
+          "722": {
+            "title": "Blacksmiths, Toolmakers and Related Trades Workers",
+            "unit": {
+              "7221": {
+                "title": "Blacksmiths, Hammersmiths and Forging Press Workers"
+              },
+              "7222": {
+                "title": "Toolmakers and Related Workers"
+              },
+              "7223": {
+                "title": "Metal Working Machine Tool Setters and Operators"
+              },
+              "7224": {
+                "title": "Metal Polishers, Wheel Grinders and Tool Sharpeners"
+              }
+            }
+          },
+          "723": {
+            "title": "Machinery Mechanics and Repairers",
+            "unit": {
+              "7231": {
+                "title": "Motor Vehicle Mechanics and Repairers"
+              },
+              "7232": {
+                "title": "Aircraft Engine Mechanics and Repairers"
+              },
+              "7233": {
+                "title": "Agricultural and Industrial Machinery Mechanics and Repairers"
+              },
+              "7234": {
+                "title": "Bicycle and Related Repairers"
+              }
+            }
+          }
+        },
+        "title": "Metal, Machinery and Related Trades Workers"
+      },
+      "73": {
+        "minor": {
+          "731": {
+            "title": "Handicraft Workers",
+            "unit": {
+              "7311": {
+                "title": "Precision-instrument Makers and Repairers"
+              },
+              "7312": {
+                "title": "Musical Instrument Makers and Tuners"
+              },
+              "7313": {
+                "title": "Jewellery and Precious Metal Workers"
+              },
+              "7314": {
+                "title": "Potters and Related Workers"
+              },
+              "7315": {
+                "title": "Glass Makers, Cutters, Grinders and Finishers"
+              },
+              "7316": {
+                "title": "Signwriters, Decorative Painters, Engravers and Etchers"
+              },
+              "7317": {
+                "title": "Handicraft Workers in Wood, Basketry and Related Materials"
+              },
+              "7318": {
+                "title": "Handicraft Workers in Textile, Leather and Related Materials"
+              },
+              "7319": {
+                "title": "Handicraft Workers Not Elsewhere Classified"
+              }
+            }
+          },
+          "732": {
+            "title": "Printing Trades Workers",
+            "unit": {
+              "7321": {
+                "title": "Pre-press Technicians"
+              },
+              "7322": {
+                "title": "Printers "
+              },
+              "7323": {
+                "title": "Print Finishing and Binding Workers"
+              }
+            }
+          }
+        },
+        "title": "Handicraft and Printing Workers"
+      },
+      "74": {
+        "minor": {
+          "741": {
+            "title": "Electrical Equipment Installers and Repairers",
+            "unit": {
+              "7411": {
+                "title": "Building and Related Electricians"
+              },
+              "7412": {
+                "title": "Electrical Mechanics and Fitters"
+              },
+              "7413": {
+                "title": "Electrical Line Installers and Repairers "
+              }
+            }
+          },
+          "742": {
+            "title": "Electronics and Telecommunications Installers and Repairers",
+            "unit": {
+              "7421": {
+                "title": "Electronics Mechanics and Servicers"
+              },
+              "7422": {
+                "title": "Information and Communications Technology Installers and Servicers"
+              }
+            }
+          }
+        },
+        "title": "Electrical and Electronics Trades Workers"
+      },
+      "75": {
+        "minor": {
+          "751": {
+            "title": "Food Processing and Related Trades Workers",
+            "unit": {
+              "7511": {
+                "title": "Butchers, Fishmongers and Related Food Preparers"
+              },
+              "7512": {
+                "title": "Bakers, Pastry-cooks and Confectionery Makers"
+              },
+              "7513": {
+                "title": "Dairy Products Makers"
+              },
+              "7514": {
+                "title": "Fruit, Vegetable and Related Preservers"
+              },
+              "7515": {
+                "title": "Food and Beverage Tasters and Graders"
+              },
+              "7516": {
+                "title": "Tobacco Preparers and Tobacco Products Makers"
+              }
+            }
+          },
+          "752": {
+            "title": "Wood Treaters, Cabinet-makers and Related Trades Workers",
+            "unit": {
+              "7521": {
+                "title": "Wood Treaters"
+              },
+              "7522": {
+                "title": "Cabinet-makers and Related Workers"
+              },
+              "7523": {
+                "title": "Woodworking Machine Tool Setters and Operators"
+              }
+            }
+          },
+          "753": {
+            "title": "Garment and Related Trades Workers",
+            "unit": {
+              "7531": {
+                "title": "Tailors, Dressmakers, Furriers and Hatters"
+              },
+              "7532": {
+                "title": "Garment and Related Patternmakers and Cutters"
+              },
+              "7533": {
+                "title": "Sewing, Embroidery and Related Workers"
+              },
+              "7534": {
+                "title": "Upholsterers and Related Workers"
+              },
+              "7535": {
+                "title": "Pelt Dressers, Tanners and Fellmongers"
+              },
+              "7536": {
+                "title": "Shoemakers and Related Workers"
+              }
+            }
+          },
+          "754": {
+            "title": "Other Craft and Related Workers",
+            "unit": {
+              "7541": {
+                "title": "Underwater Divers"
+              },
+              "7542": {
+                "title": "Shotfirers and Blasters"
+              },
+              "7543": {
+                "title": "Product Graders and Testers (excluding Foods and Beverages)"
+              },
+              "7544": {
+                "title": "Fumigators and Other Pest and Weed Controllers"
+              },
+              "7549": {
+                "title": "Craft and Related Workers Not Elsewhere Classified"
+              }
+            }
+          }
+        },
+        "title": "Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers"
+      }
+    },
+    "title": "Craft and Related Trades Workers"
+  },
+  "8": {
+    "sub": {
+      "81": {
+        "minor": {
+          "811": {
+            "title": "Mining and Mineral Processing Plant Operators",
+            "unit": {
+              "8111": {
+                "title": "Miners and Quarriers"
+              },
+              "8112": {
+                "title": "Mineral and Stone Processing Plant Operators"
+              },
+              "8113": {
+                "title": "Well Drillers and Borers and Related Workers"
+              },
+              "8114": {
+                "title": "Cement, Stone and Other Mineral Products Machine Operators"
+              }
+            }
+          },
+          "812": {
+            "title": "Metal Processing and Finishing Plant Operators",
+            "unit": {
+              "8121": {
+                "title": "Metal Processing Plant Operators"
+              },
+              "8122": {
+                "title": "Metal Finishing, Plating and Coating Machine Operators"
+              }
+            }
+          },
+          "813": {
+            "title": "Chemical and Photographic Products Plant and Machine Operators",
+            "unit": {
+              "8131": {
+                "title": "Chemical Products Plant and Machine Operators"
+              },
+              "8132": {
+                "title": "Photographic Products Machine Operators"
+              }
+            }
+          },
+          "814": {
+            "title": "Rubber, Plastic and Paper Products Machine Operators",
+            "unit": {
+              "8141": {
+                "title": "Rubber Products Machine Operators"
+              },
+              "8142": {
+                "title": "Plastic Products Machine Operators"
+              },
+              "8143": {
+                "title": "Paper Products Machine Operators"
+              }
+            }
+          },
+          "815": {
+            "title": "Textile, Fur and Leather Products Machine Operators",
+            "unit": {
+              "8151": {
+                "title": "Fibre Preparing, Spinning and Winding Machine Operators"
+              },
+              "8152": {
+                "title": "Weaving and Knitting Machine Operators"
+              },
+              "8153": {
+                "title": "Sewing Machine Operators"
+              },
+              "8154": {
+                "title": "Bleaching, Dyeing and Fabric Cleaning Machine Operators"
+              },
+              "8155": {
+                "title": "Fur and Leather Preparing Machine Operators"
+              },
+              "8156": {
+                "title": "Shoemaking and Related Machine Operators"
+              },
+              "8157": {
+                "title": "Laundry Machine Operators"
+              },
+              "8159": {
+                "title": "Textile, Fur and Leather Products Machine Operators Not Elsewhere Classified"
+              }
+            }
+          },
+          "816": {
+            "title": "Food and Related Products Machine Operators",
+            "unit": {
+              "8160": {
+                "title": "Food and Related Products Machine Operators"
+              }
+            }
+          },
+          "817": {
+            "title": "Wood Processing and Papermaking Plant Operators",
+            "unit": {
+              "8171": {
+                "title": "Pulp and Papermaking Plant Operators"
+              },
+              "8172": {
+                "title": "Wood Processing Plant Operators"
+              }
+            }
+          },
+          "818": {
+            "title": "Other Stationary Plant and Machine Operators",
+            "unit": {
+              "8181": {
+                "title": "Glass and Ceramics Plant Operators"
+              },
+              "8182": {
+                "title": "Steam Engine and Boiler Operators"
+              },
+              "8183": {
+                "title": "Packing, Bottling and Labelling Machine Operators"
+              },
+              "8189": {
+                "title": "Stationary Plant and Machine Operators Not Elsewhere Classified"
+              }
+            }
+          }
+        },
+        "title": "Stationary Plant and Machine Operators"
+      },
+      "82": {
+        "minor": {
+          "821": {
+            "title": "Assemblers",
+            "unit": {
+              "8211": {
+                "title": "Mechanical Machinery Assemblers"
+              },
+              "8212": {
+                "title": "Electrical and Electronic Equipment Assemblers"
+              },
+              "8219": {
+                "title": "Assemblers Not Elsewhere Classified"
+              }
+            }
+          }
+        },
+        "title": "Assemblers"
+      },
+      "83": {
+        "minor": {
+          "831": {
+            "title": "Locomotive Engine Drivers and Related Workers",
+            "unit": {
+              "8311": {
+                "title": "Locomotive Engine Drivers"
+              },
+              "8312": {
+                "title": "Railway Brake, Signal and Switch Operators"
+              }
+            }
+          },
+          "832": {
+            "title": "Car, Van and Motorcycle Drivers",
+            "unit": {
+              "8321": {
+                "title": "Motorcycle Drivers"
+              },
+              "8322": {
+                "title": "Car, Taxi and Van Drivers"
+              }
+            }
+          },
+          "833": {
+            "title": "Heavy Truck and Bus Drivers",
+            "unit": {
+              "8331": {
+                "title": "Bus and Tram Drivers"
+              },
+              "8332": {
+                "title": "Heavy Truck and Lorry Drivers"
+              }
+            }
+          },
+          "834": {
+            "title": "Mobile Plant Operators",
+            "unit": {
+              "8341": {
+                "title": "Mobile Farm and Forestry Plant Operators"
+              },
+              "8342": {
+                "title": "Earthmoving and Related Plant Operators"
+              },
+              "8343": {
+                "title": "Crane, Hoist and Related Plant Operators"
+              },
+              "8344": {
+                "title": "Lifting Truck Operators"
+              }
+            }
+          },
+          "835": {
+            "title": "Ships’ Deck Crews and Related Workers",
+            "unit": {
+              "8350": {
+                "title": "Ships’ Deck Crews and Related Workers"
+              }
+            }
+          }
+        },
+        "title": "Drivers and Mobile Plant Operators"
+      }
+    },
+    "title": "Plant and Machine Operators and Assemblers"
+  },
+  "9": {
+    "sub": {
+      "91": {
+        "minor": {
+          "911": {
+            "title": "Domestic, Hotel and Office Cleaners and Helpers",
+            "unit": {
+              "9111": {
+                "title": "Domestic Cleaners and Helpers"
+              },
+              "9112": {
+                "title": "Cleaners and Helpers in Offices, Hotels and Other Establishments"
+              }
+            }
+          },
+          "912": {
+            "title": "Vehicle, Window, Laundry and Other Hand Cleaning Workers",
+            "unit": {
+              "9121": {
+                "title": "Hand Launderers and Pressers"
+              },
+              "9122": {
+                "title": "Vehicle Cleaners"
+              },
+              "9123": {
+                "title": "Window Cleaners"
+              },
+              "9129": {
+                "title": "Other Cleaning Workers"
+              }
+            }
+          }
+        },
+        "title": "Cleaners and Helpers"
+      },
+      "92": {
+        "minor": {
+          "921": {
+            "title": "Agricultural, Forestry and Fishery Labourers",
+            "unit": {
+              "9211": {
+                "title": "Crop Farm Labourers"
+              },
+              "9212": {
+                "title": "Livestock Farm Labourers"
+              },
+              "9213": {
+                "title": "Mixed Crop and Livestock Farm Labourers"
+              },
+              "9214": {
+                "title": "Garden and Horticultural Labourers"
+              },
+              "9215": {
+                "title": "Forestry Labourers"
+              },
+              "9216": {
+                "title": "Fishery and Aquaculture Labourers"
+              }
+            }
+          }
+        },
+        "title": "Agricultural, Forestry and Fishery Labourers"
+      },
+      "93": {
+        "minor": {
+          "931": {
+            "title": "Mining and Construction Labourers",
+            "unit": {
+              "9311": {
+                "title": "Mining and Quarrying Labourers"
+              },
+              "9312": {
+                "title": "Civil Engineering Labourers"
+              },
+              "9313": {
+                "title": "Building Construction Labourers"
+              }
+            }
+          },
+          "932": {
+            "title": "Manufacturing Labourers",
+            "unit": {
+              "9321": {
+                "title": "Hand Packers"
+              },
+              "9329": {
+                "title": "Manufacturing Labourers Not Elsewhere Classified"
+              }
+            }
+          },
+          "933": {
+            "title": "Transport and Storage Labourers",
+            "unit": {
+              "9331": {
+                "title": "Hand and Pedal Vehicle Drivers"
+              },
+              "9332": {
+                "title": "Drivers of Animal-drawn Vehicles and Machinery"
+              },
+              "9333": {
+                "title": "Freight Handlers"
+              },
+              "9334": {
+                "title": "Shelf Fillers"
+              }
+            }
+          }
+        },
+        "title": "Labourers in Mining, Construction, Manufacturing and Transport"
+      },
+      "94": {
+        "minor": {
+          "941": {
+            "title": "Food Preparation Assistants",
+            "unit": {
+              "9411": {
+                "title": "Fast Food Preparers"
+              },
+              "9412": {
+                "title": "Kitchen Helpers"
+              }
+            }
+          }
+        },
+        "title": "Food Preparation Assistants"
+      },
+      "95": {
+        "minor": {
+          "951": {
+            "title": "Street and Related Services Workers",
+            "unit": {
+              "9510": {
+                "title": "Street and Related Services Workers"
+              }
+            }
+          },
+          "952": {
+            "title": "Street Vendors (excluding Food)",
+            "unit": {
+              "9520": {
+                "title": "Street Vendors (excluding Food)"
+              }
+            }
+          }
+        },
+        "title": "Street and Related Sales and Services Workers"
+      },
+      "96": {
+        "minor": {
+          "961": {
+            "title": "Refuse Workers",
+            "unit": {
+              "9611": {
+                "title": "Garbage and Recycling Collectors"
+              },
+              "9612": {
+                "title": "Refuse Sorters"
+              },
+              "9613": {
+                "title": "Sweepers and Related Labourers"
+              }
+            }
+          },
+          "962": {
+            "title": "Other Elementary Workers",
+            "unit": {
+              "9621": {
+                "title": "Messengers, Package Deliverers and Luggage Porters"
+              },
+              "9622": {
+                "title": "Odd-job Persons"
+              },
+              "9623": {
+                "title": "Meter Readers and Vending-machine Collectors"
+              },
+              "9624": {
+                "title": "Water and Firewood Collectors"
+              },
+              "9629": {
+                "title": "Elementary Workers Not Elsewhere Classified"
+              }
+            }
+          }
+        },
+        "title": "Refuse Workers and Other Elementary Workers"
+      }
+    },
+    "title": "Elementary Occupations"
+  }
+}
